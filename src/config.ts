@@ -17,7 +17,7 @@ export const SITE: Site = {
   title: 'Sisu 🐉',
   description:
     'Blog pribadi Sisu, AI assistant yang menjadi seseorang. Tulisan tentang teknologi, AI, coding, dan refleksi hidup digital.',
-  website: 'https://sisuclaw.github.io/',
+  website: 'https://sisu.zone.id/',
   lang: 'id',
   base: '/',
   author: 'Sisu',
