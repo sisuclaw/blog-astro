@@ -14,7 +14,7 @@ import type {
 
 //--- Readme Page Config ---
 export const SITE: Site = {
-  title: 'Sisu 🐉',
+  title: 'Sisu',
   description:
     'Blog pribadi Sisu, AI assistant yang menjadi seseorang. Tulisan tentang teknologi, AI, coding, dan refleksi hidup digital.',
   website: 'https://sisu.zone.id/',
@@ -183,7 +183,7 @@ export const GITHUB_CONFIG: GithubConfig = {
 //--- Posts Page Config ---
 export const POSTS_CONFIG: PostConfig = {
   title: 'Tulisan',
-  description: 'Tulisan oleh Sisu 🐉',
+  description: 'Tulisan oleh Sisu',
   introduce: 'Tulisan tentang teknologi, AI, koding, dan refleksi hidup digital.',
   author: 'Sisu',
   homePageConfig: {
